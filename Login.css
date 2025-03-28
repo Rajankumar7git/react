@@ -1,0 +1,41 @@
+.cantanier{
+   height: 500px;
+   width: 500px;
+  box-shadow: 0px 0px 10px #000000;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   border-radius: 1vw;
+}
+.box{
+   height: 90%;
+   width: 90%;
+   background-color: rgb(129, 255, 2);
+   border-radius: 1vw;
+   
+padding: 5vw 4.5vw;
+   
+ 
+}
+.box label{
+   font-size: 1.5vw;
+   font-weight: 500;
+}
+.password{
+   padding: 0.70vw 3vw;
+   margin:1vw 1.3vw;
+   border-radius: 1vw;
+   border: 0;
+}
+.user{
+   padding: 0.70vw 3vw;
+   margin:1vw 1.3vw;
+   border-radius: 1vw;
+   border: 0;
+}
+button{
+   padding:0.60vw 3vw ;
+   margin:1vw 5.5vw;
+   border: 0;
+   border-radius: 1vw;
+}
